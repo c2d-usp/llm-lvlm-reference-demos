@@ -2,6 +2,24 @@
 
 This repository contains reference scripts for demonstrating and comparing Large Language Models (LLMs) and Multimodal Models (LLaVA). We use Gradio to build these simple interactive interfaces.
 
+## Demonstration Examples
+
+### Single Pruned LLaMA Model
+
+
+
+https://github.com/user-attachments/assets/3fc7b67c-6bd5-44fd-bae2-91d7a5bc5dab
+
+
+
+### Comparison Between Pruned and Unpruned LLaVA
+
+
+
+https://github.com/user-attachments/assets/a004f56b-2bcb-44df-8321-8f5102fe230e
+
+
+
 ## File Structure
 
 We organize our repository as follows.
