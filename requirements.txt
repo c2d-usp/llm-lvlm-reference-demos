@@ -1,2 +1,4 @@
 transformers==4.57.3
 gradio==6.1.0
+torch
+torchvision
